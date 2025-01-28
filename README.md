@@ -67,6 +67,11 @@
 
 <br/>
 
+## Check out my Social Media
+
+<a href= "https://www.instagram.com/valenwerle/?hl=es">
+    <img src="https://github.com/user-attachments/assets/9c736073-cdf1-44d2-ace3-ff618813dcd7" width="40px">
+</a>
 
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/stevenbisbi?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
