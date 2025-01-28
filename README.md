@@ -69,7 +69,7 @@
 
 ## Check out my Social Media
 
-<a href= "https://www.instagram.com/valenwerle/?hl=es">
+<a target="_blank" href= "https://www.linkedin.com/in/steven-s-2b302b117/">
     <img src="https://github.com/user-attachments/assets/9c736073-cdf1-44d2-ace3-ff618813dcd7" width="40px">
 </a>
 
