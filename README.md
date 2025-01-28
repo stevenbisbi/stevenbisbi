@@ -35,7 +35,7 @@
 
 
 
-#
+
 
 <a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://zelda.nintendo.com/links-awakening/assets/img/characters/char-link.webp"></a>
 <br/>
