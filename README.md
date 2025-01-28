@@ -87,7 +87,7 @@
 
 <p align="center">
 <a href="https://github.com/stevenbisbi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smir45&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=stevenbisbi&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stevenbisbi&layout=compact&exclude_lang=java+r&theme=vue-light" />
 </a>
 </p>
@@ -119,6 +119,5 @@ The *isocalendar* plugin displays an isometric view of your commits calendar, al
 
 
 ------
-Credits: [smir45](https://github.com/smir45)
 
-Last edited on: 18/08/2021
+Last edited on: 28/01/2025
