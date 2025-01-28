@@ -69,7 +69,7 @@
 
 ## Check out my Social Media
 
-<a target="_blank" href= "https://www.linkedin.com/in/steven-s-2b302b117/">
+<a href= "https://www.linkedin.com/in/steven-s-2b302b117/" target="_blank">
     <img src="https://github.com/user-attachments/assets/9c736073-cdf1-44d2-ace3-ff618813dcd7" width="40px">
 </a>
 
