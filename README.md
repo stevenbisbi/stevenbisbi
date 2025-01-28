@@ -1,10 +1,10 @@
-### Hello World, I'm Steven Sanchez:
+
 
 <h1 align="center">
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+    <img src="https://static.wikia.nocookie.net/nintendo/images/3/30/Trifuerza_-_TLoZ_A_Link_Between_Worlds.png/revision/latest/scale-to-width-down/1000?cb=20190220001239&path-prefix=es" width="24px" style="max-width:100%;">
   </a>
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
+  𝐇𝐞𝐥𝐥𝐨 &lt;World/&gt;, I'm Steven Sanchez!
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
