@@ -16,10 +16,10 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://i.gifer.com/7mQW.gif">
 </a>
 
-- 🔭 I’m currently stdyng **Software Engineering**
-- 🌱 I’m currently learn to  **Full Stack Developer**
+- 🔭 I’m currently studying **Software Engineering**
+- 🌱 I’m currently learning to  **Full Stack Developer**
 - 👯 I’m looking to collaborate on **Web Development**
-- 🤔 I’m looking for with **Internships**
+- 🤔 I’m looking for **Internships**
 
 
 <br/>
@@ -46,31 +46,32 @@
 
 <br/>
 <br/>
-<code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"></code>
-<!-- <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></code> -->
-<code><img height="40" width="40" src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000"></code>
+<!-- <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></code> -->
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
+<code><img height="40" width="40" src="https://redux.js.org/img/redux.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 
 #
+<code><img height="40" width="40" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 <code><img height="40" width="40" src="https://static.djangoproject.com/img/logos/django-logo-negative.png"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></code>
 <code><img height="40" width="40" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="40" width="40" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
 
 <br/>
 
 ## Check out my Social Media
 
-<a href= "https://www.linkedin.com/in/steven-s-2b302b117/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/9c736073-cdf1-44d2-ace3-ff618813dcd7" width="40px">
+<a href="https://www.linkedin.com/in/steven-s-2b302b117/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40px">
 </a>
 
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/stevenbisbi?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
@@ -96,4 +97,5 @@
 
 <br/>
 ------
-Last edited on: 28/01/2025
+Last edited on: 09/03/2025
+
