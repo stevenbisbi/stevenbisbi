@@ -65,6 +65,7 @@
 <code><img height="40" width="40" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/?size=100&id=pHS3eRpynIRQ&format=png&color=000000"></code>
+<code><img height="40" width="40" src="https://apps.odoocdn.com/web/image/loempia.module/40529/icon_image/84x84?unique=d8202bb"></code>
 
 <br/>
 
