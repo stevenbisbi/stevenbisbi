@@ -16,10 +16,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://i.gifer.com/7mQW.gif">
 </a>
 
-🔭 I’m currently studying Software Engineering.
-🌱 I’m currently learning to become a Full Stack Developer.
-👯 I’m looking to collaborate on Web Development projects.
-🤔 I’m seeking internship opportunities.
+
 
 
 <br/>
