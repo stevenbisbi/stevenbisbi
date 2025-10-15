@@ -49,9 +49,8 @@
 <code><img height="40" width="40" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000"></code>
 <!-- <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></code> -->
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
 <code><img height="40" width="40" src="https://redux.js.org/img/redux.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
@@ -65,7 +64,6 @@
 <code><img height="40" width="40" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/?size=100&id=pHS3eRpynIRQ&format=png&color=000000"></code>
-<code><img height="40" width="40" src="https://apps.odoocdn.com/web/image/loempia.module/40529/icon_image/84x84?unique=d8202bb"></code>
 
 <br/>
 
